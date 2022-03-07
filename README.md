@@ -4,3 +4,4 @@
   - [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 - ### 5 kyu
   - [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
+  - [Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4)
