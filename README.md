@@ -10,6 +10,7 @@
   - [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003)
   - [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
   - [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
+  - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 - ### 5 kyu
   - [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
   - [Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4)
