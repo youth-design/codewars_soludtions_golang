@@ -2,6 +2,7 @@
 - ### 7 kyu
   - [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001)
   - [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
+  - [Speed Control](https://www.codewars.com/kata/56484848ba95170a8000004d)
 - ### 6 kyu
   - [String array duplicates](https://www.codewars.com/kata/59f08f89a5e129c543000069)
   - [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
