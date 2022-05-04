@@ -12,6 +12,8 @@
   - [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
   - [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
   - [Handshake problem](https://www.codewars.com/kata/5574835e3e404a0bed00001b)
+  - [Split and then add both sides of an array together](https://www.codewars.com/kata/5946a0a64a2c5b596500019a)
+  - [Sum of prime-indexed elements](https://www.codewars.com/kata/59f38b033640ce9fc700015b)
 - ### 5 kyu
   - [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
   - [Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4)
