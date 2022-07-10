@@ -19,5 +19,6 @@
   - [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
   - [Gap in Primes](https://www.codewars.com/kata/561e9c843a2ef5a40c0000a4)
   - [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+  - [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 - ### 4 kyu
   - [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
