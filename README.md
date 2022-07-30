@@ -24,3 +24,4 @@
   - [Valid Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688)
 - ### 4 kyu
   - [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
+  - [Valid Parentheses](https://www.codewars.com/kata/52f677797c461daaf7000740)

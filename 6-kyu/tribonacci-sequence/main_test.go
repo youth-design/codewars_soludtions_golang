@@ -39,6 +39,7 @@ func TestTribonacci(t *testing.T) {
 	for _, c := range cases {
 		c := c
 		t.Run(c.Name, func(t *testing.T) {
+			t.Parallel()
 			assert.Equal(t, c.Expect, Tribonacci(c.ValueSignature, c.ValueN))
 		})
 	}
